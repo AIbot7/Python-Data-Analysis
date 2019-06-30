@@ -5,8 +5,7 @@ Python is a programming language gaining popularity in the sciences. It's open s
 
 Python for data analysis, data preprocessing, data wrangling, and data visualization.
 
-
-Python Basics
+Python Basics.
 Python Data Structures
 			Tuple
 			List
