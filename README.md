@@ -38,7 +38,7 @@ Pandas
 			Grouping
 			Row-wise manipulation of DataFrames
 			Merging DataFrames
-Data Visualization
+Data Visualization.
 			Matplotlib
 			Basic plots
 			Figures and subplots
